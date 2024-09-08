@@ -1,7 +1,7 @@
-# yahtzee
+# Yahtzee
 Command line game of a single player Yahtzee
 
-##How to install
+## How to install
 1. clone the files into your system
 `git clone "https://github.com/Error1223/yahtzee.git"`
 2. navigate into the build file
@@ -11,7 +11,7 @@ Command line game of a single player Yahtzee
 5. run the game with the generated run command
 `./yahtzee`
 
-##How to play
+## How to play
 This game was inspired by [buddy boardgames yahtzee](https://buddyboardgames.com/yahtzee)
 
 A typical turn
@@ -36,5 +36,5 @@ The game continues until all players have filled out all rows, at which point th
 
 You now know how to play Yahtzee! But there's a few more special rules you may want to learn:
 
-###The bonus
+### The bonus
 The top section is the first six rows - ones, twos, threes, fours, fives and sixes. If the sum of your score in the top section is greater than or equal to 63, you automatically get 35 bonus points. Spectacular!
